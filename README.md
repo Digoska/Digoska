@@ -35,7 +35,7 @@
   </a>
   <!-- Right Side: Top Languages -->
   <a href="https://github.com/Digoska">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digoska&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Digoska&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
   </a>
 </div>
 
@@ -46,13 +46,16 @@
 
 <div align="center">
   <!-- Mobile & Frontend -->
-  <img src="https://skillicons.dev/icons?i=flutter,react,swift,typescript,astro,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,swift,typescript,astro,angular,html,css" />
   <br /><br />
-  <!-- Backend & Web3 -->
-  <img src="https://skillicons.dev/icons?i=nodejs,python,supabase,mysql,postgres,firebase,solidity" />
+  <!-- Backend, AI & Web3 -->
+  <img src="https://skillicons.dev/icons?i=nodejs,python,rust,solidity,cpp,cs" />
+  <br /><br />
+  <!-- Databases & Cloud -->
+  <img src="https://skillicons.dev/icons?i=supabase,mysql,postgres,firebase,googlecloud" />
   <br /><br />
   <!-- Tools & Design -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,linux,apple" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,ps,ae,linux,apple" />
 </div>
 
 <br />
@@ -71,7 +74,6 @@
 
 <!-- Snake Animation -->
 ### 🐍 Contribution Activity
-<!-- NOTE: This requires the .github/workflows/snake.yml file to be created first! -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Digoska/Digoska/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
