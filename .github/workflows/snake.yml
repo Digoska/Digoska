@@ -6,19 +6,24 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# This permission is CRITICAL for the "403" error fix
+permissions: 
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       
       - uses: Platane/snk@v3
         with:
-          # This matches your GitHub username automatically
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            # Dracula Theme Palette
+            # color_snake = Orange (Pop color)
+            # color_dots = Dark BG -> Grey -> Blue -> Purple -> Pink (Intensity)
+            dist/github-contribution-grid-snake.svg?color_snake=#ffb86c&color_dots=#282a36,#44475a,#6272a4,#bd93f9,#ff79c6
             
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
