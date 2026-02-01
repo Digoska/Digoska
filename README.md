@@ -1,98 +1,87 @@
-<h2 align="left">Hi 👋! My name is Nikodem.</h2>
-
-###
-
-<p align="left">
-I'm an <strong>18-year-old Full-Stack Mobile Developer</strong> from Slovakia 🇸🇰. <br>
-I specialize in building high-performance <strong>hybrid apps (Flutter, React Native)</strong>, <strong>Web3 solutions (Solana)</strong>, and integrating <strong>AI agents</strong> into mobile products.
-<br><br>
-🚀 <strong>Currently:</strong> Building <strong>Kyros Wallet</strong> & seeking a Junior Developer role (Brno/Remote).
-</p>
-
-###
+<!-- Header & Typing Effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Nikodem+👋;Full+Stack+Mobile+Developer;Building+Web3+%26+AI+Apps;Based+in+Slovakia" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Digoska&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Digoska&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <h3>18-year-old Mobile & Blockchain Developer</h3>
+  <p>
+    Specializing in <strong>Flutter</strong>, <strong>React Native</strong>, and <strong>Solana</strong>.<br>
+    I build high-performance apps, decentralized finance (DeFi) tools, and AI agents.
+  </p>
+
+  <!-- Social Links -->
+  <a href="https://www.linkedin.com/in/nikodem-zelenak-1175b4358" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nikodem.zelenak.privat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nikodem.zelenak/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/581168787882115133" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </div>
 
-###
+<br />
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<!-- Main Content Grid -->
+<div align="center">
+  <!-- Left Side: Stats -->
+  <a href="https://github.com/Digoska">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Digoska&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="170" alt="Nikodem's GitHub Stats" />
+  </a>
+  <!-- Right Side: Top Languages -->
+  <a href="https://github.com/Digoska">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digoska&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
+  </a>
+</div>
 
-<div align="left">
-  <!-- Mobile & Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react native" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="10" />
-  
+<br />
+
+<!-- Tech Stack Section -->
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <!-- Mobile & Frontend -->
+  <img src="https://skillicons.dev/icons?i=flutter,react,swift,typescript,astro,html,css" />
+  <br /><br />
   <!-- Backend & Web3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" alt="polygon" />
-  <img width="10" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="android studio" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,supabase,mysql,postgres,firebase,solidity" />
+  <br /><br />
+  <!-- Tools & Design -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,linux,apple" />
 </div>
 
-###
+<br />
 
-<h3 align="left">🏆 Featured Projects</h3>
+<!-- Projects Section -->
+### 🏆 Featured Projects
 
 | 💎 Project | 📝 Description | 💻 Stack |
 | :--- | :--- | :--- |
-| **Kyros Wallet** | All-in-one crypto wallet with built-in DEX functionality. | `Flutter` `Solana` `Dart` |
+| **Kyros Wallet** | Comprehensive crypto wallet with built-in DEX functionality. | `Flutter` `Solana` `Dart` |
 | **NFT Go** | Cross-platform NFT marketplace solution. | `React` `Web3.js` |
-| **iOS Apps** | Published utility apps on App Store ($16+ MRR). | `Swift` `Xcode` |
-| **Portfolio** | High-performance static site with GSAP animations. | `Astro` `TypeScript` |
+| **iOS Utilities** | Published apps on App Store generating monthly revenue. | `Swift` `Xcode` |
+| **Web3 GPS Game** | Location-based gaming project with blockchain rewards. | `React Native` `Maps` |
 
-###
+<br />
 
-<div align="left">
-  <a href="https://www.instagram.com/nikodem.zelenak/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.com/users/581168787882115133" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:nikodem.zelenak.privat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/nikodem-zelenak-1175b4358" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+<!-- Snake Animation -->
+### 🐍 Contribution Activity
+<!-- NOTE: This requires the .github/workflows/snake.yml file to be created first! -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Digoska/Digoska/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
-###
+<br />
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Digoska/Digoska/output/snake.svg" alt="Snake animation" />
-
-###
-
+<!-- Spotify Section -->
+### 🎧 Coding Vibe
 <div align="center">
-  <a href="https://open.spotify.com/user/Digo">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Digo&count=4&unique=true&theme=dracula" alt="Spotify recently played" />
+  <a href="https://open.spotify.com/user/31mqdyvjchnf576jkbwq45kteep4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mqdyvjchnf576jkbwq45kteep4&count=4&unique=true&theme=dracula&background=00000000" alt="Spotify Recently Played" />
   </a>
 </div>
